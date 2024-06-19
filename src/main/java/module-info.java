@@ -4,6 +4,6 @@ module com.examplebr.ind.galaxyfood.restaurants {
 
     requires org.kordamp.bootstrapfx.core;
 
-    opens com.examplebr.ind.galaxyfood.restaurants to javafx.fxml;
-    exports com.examplebr.ind.galaxyfood.restaurants;
+    opens br.ind.galaxyfood.restaurants to javafx.fxml;
+    exports br.ind.galaxyfood.restaurants;
 }

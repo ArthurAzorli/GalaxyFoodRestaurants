@@ -1,4 +1,4 @@
-package com.examplebr.ind.galaxyfood.restaurants;
+package br.ind.galaxyfood.restaurants;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
@@ -9,6 +9,6 @@ public class HelloController {
 
     @FXML
     protected void onHelloButtonClick() {
-        welcomeText.setText("Welcome to JavaFX Application!");
+        welcomeText.setText("FODA TA!");
     }
 }
